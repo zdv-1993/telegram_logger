@@ -20,3 +20,6 @@
    logger = logging.getLogger(__name__)
 
     
+#### Установка через pip
+```
+    pip install -e git+https://github.com/zdv-1993/telegram_logger.git#egg=telegram_logger
